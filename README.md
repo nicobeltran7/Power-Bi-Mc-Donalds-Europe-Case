@@ -13,7 +13,7 @@ Make data-driven decisions for resource allocation
 
 📸 Dashboard Preview
 Financial Overview Page
-<img width="1372" height="771" alt="image" src="https://github.com/user-attachments/assets/da815fab-6ba9-4bfb-a332-c59c8dd51e30" />
+<img width="1372" height="771" alt="image" src="https://github.com/user-attachments/assets/111a616f-882b-4d4c-aa36-f2a47c85112e" />
 
 The Financial Overview page provides a comprehensive view of performance across all 13 European markets, featuring:
 
@@ -24,7 +24,7 @@ Customer demographic insights by age group
 Theft pattern analysis across different age segments
 
 Country Breakdown Page
-<img width="1372" height="778" alt="image" src="https://github.com/user-attachments/assets/92fbd9e1-e60d-4907-8556-539494caaf44" />
+<img width="1372" height="778" alt="image" src="https://github.com/user-attachments/assets/90485f4e-ce54-48a8-8785-db34659511e6" />
 
 The Country Breakdown page enables deep-dive analysis into sales performance:
 
@@ -193,6 +193,14 @@ Transactions: 32M+ units sold
 Stores: 13 restaurant locations (one per country)
 General Managers: 13 store managers tracked with demographic data
 
+📋 Next Steps
+
+ Security Audit: Conduct comprehensive security review of UK and Spain locations
+ Stakeholder Presentation: Present dashboard findings to EU leadership team
+ Data Validation: Verify theft data accuracy with local store managers
+ User Training: Schedule Power BI training sessions for regional managers
+ Dashboard Deployment: Publish dashboard to Power BI Service for organization-wide access
+
 🔍 Future Enhancements
 
 Real-time data integration via Power BI Service
@@ -203,62 +211,3 @@ Cost optimization recommendations engine
 Competitive benchmarking against industry standards
 Customer satisfaction score integration
 Employee performance metrics dashboard
-
-📋 Next Steps
-Immediate Actions (1-2 Weeks)
-
- Security Audit: Conduct comprehensive security review of UK and Spain locations
- Stakeholder Presentation: Present dashboard findings to EU leadership team
- Data Validation: Verify theft data accuracy with local store managers
- User Training: Schedule Power BI training sessions for regional managers
- Dashboard Deployment: Publish dashboard to Power BI Service for organization-wide access
-
-Short-term Goals (1-3 Months)
-
- Historical Data Integration: Import 2-3 years of historical data for trend analysis
- Automated Refresh: Set up scheduled data refresh (daily/weekly)
- Additional Metrics: Incorporate labor costs, inventory turnover, and customer satisfaction scores
- Store Manager Page: Create dedicated page for individual store deep-dives
- Alert System: Implement automated alerts for abnormal theft patterns or revenue drops
- Mobile App: Deploy Power BI mobile app for on-the-go access
-
-Mid-term Objectives (3-6 Months)
-
- Predictive Modeling: Develop ML models for sales forecasting and demand prediction
- Competitive Analysis: Integrate market share and competitor data
- Customer Segmentation: Advanced RFM (Recency, Frequency, Monetary) analysis
- Product Mix Optimization: Analyze product performance by country and recommend menu adjustments
- Diversity Initiative: Launch management diversity program based on dashboard insights
- API Integration: Connect to point-of-sale systems for real-time data
-
-Long-term Vision (6-12 Months)
-
- Enterprise Rollout: Extend dashboard framework to global McDonald's operations
- Advanced Analytics: Implement AI-driven insights and recommendations
- Supply Chain Integration: Connect with inventory and supplier data
- Customer Loyalty Program: Integrate loyalty card data for personalized insights
- Sustainability Metrics: Add environmental and sustainability KPIs
- Benchmarking Portal: Create peer comparison capabilities across regions
-
-Continuous Improvement
-
- Monthly Review Meetings: Establish regular dashboard review cadence with stakeholders
- User Feedback Loop: Collect and implement user feedback for dashboard enhancements
- Performance Monitoring: Track dashboard usage and engagement metrics
- Documentation Updates: Maintain up-to-date user guides and technical documentation
- Data Governance: Ensure data quality, security, and compliance standards
-
-Success Metrics
-Track the following KPIs to measure dashboard impact:
-
-Dashboard adoption rate (% of managers using weekly)
-Time saved on manual reporting (hours per month)
-Theft reduction in high-risk locations (% decrease)
-Revenue growth in underperforming markets (% increase)
-Decision-making speed improvement (days to action)
-
-👤 Author
-European Store Analyst
-McDonald's EU Division
-📝 License
-This project is proprietary and confidential. For internal McDonald's use only.
