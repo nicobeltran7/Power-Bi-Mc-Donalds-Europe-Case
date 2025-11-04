@@ -160,7 +160,7 @@ Rank = RELATED('Table'[Rank])
 
 ## 📁 Project Structure
 ```
-├── Data Model/Dashboard
+├── pbix/Data Model/Dashboard
 │   └── Mc Donalds EU Dashboard.pbix
 ├── Data Sources/
 │   ├── DateTable.csv
