@@ -160,12 +160,8 @@ Rank = RELATED('Table'[Rank])
 
 ## 📁 Project Structure
 ```
-├── Dashboard Screenshots/
-│   ├── Financial_Overview.png
-│   ├── Country_Breakdown.png
-│   └── Business_Case.png
-├── Data Model/
-│   └── Schema_Diagram.png
+├── Data Model/Dashboard
+│   └── Mc Donalds EU Dashboard.pbix
 ├── Data Sources/
 │   ├── DateTable.csv
 │   ├── SaleTransactions.csv
